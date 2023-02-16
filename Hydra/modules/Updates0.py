@@ -19,7 +19,9 @@ async def awake(event):
     * You can Rename Files ✅ *
 Powered by: @Toon_LinkZ ™ """
     await tbot.send_file(event.chat_id, PHOTO1, caption=HYDRA1)
-
+    
+__mod_name__ = "Rename"
+    
 __help__ = """
 *Files Rename:* 
 • How to Rename 
@@ -32,4 +34,3 @@ Click Rename And Send Your New Title For Your file And And Select Document Or Vi
 °᭄Powered by @Toon_LinkZ™
 """
 
-__mod_name__ = "Rename"
