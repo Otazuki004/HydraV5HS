@@ -29,7 +29,7 @@ Click Rename And Send Your New Title For Your file And And Select Document Or Vi
  • How to Set Thumbnail
  Send A Photo It's Save Your Thumbnail
 
-°᭄Powered by @Toon_LinkZ™
-"""
+°᭄Powered by @Toon_LinkZ™"""
+
 
 __mod_name__ = "Rename"
