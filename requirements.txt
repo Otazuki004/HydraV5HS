@@ -1,5 +1,5 @@
 future
-yt_dlp
+yt-dlp-2023.2.17
 envparse==0.2.0
 multicolorcaptcha
 faker
