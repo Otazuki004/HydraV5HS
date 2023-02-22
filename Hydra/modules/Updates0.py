@@ -26,8 +26,8 @@ __help__ = """
 Send Some File It's Ask Rename
 Click Rename And Send Your New Title For Your file And And Select Document Or Video After Selecting Your File Will Upload Few minutes\n
  • How to Set Thumbnail\n Send A Photo It's Save Your Thumbnail\n
-•Powered by @Toon_LinkZ™"""
-
+•Powered by @Toon_LinkZ
+"""
 
 
 __mod_name__ = "Rename"
