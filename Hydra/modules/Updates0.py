@@ -20,8 +20,8 @@ async def awake(event):
 Powered by: @Toon_LinkZ ™ """
     await tbot.send_file(event.chat_id, PHOTO1, caption=HYDRA1)
 
-__help__ = """
-*Files Rename* 
+__help__ ="""
+*Files Rename*
 • How to Rename 
 Send Some File It's Ask Rename
 Click Rename And Send Your New Title For Your file And And Select Document Or Video After Selecting Your File Will Upload Few minutes\n
