@@ -19,6 +19,8 @@ async def awake(event):
     * You can Rename Files ✅ *
 Powered by: @Toon_LinkZ ™ """
     await tbot.send_file(event.chat_id, PHOTO1, caption=HYDRA1)
+    
+__mod_name__ = "Renames"
 
 __help__ = """
 *Files Rename*
@@ -31,4 +33,4 @@ Powered by @Toon_LinkZ
 """
 
 
-__mod_name__ = "Renames"
+
