@@ -30,4 +30,4 @@ Click Rename And Send Your New Title For Your file And And Select Document Or Vi
 """
 
 
-__mod_name__ = "Rename"
+__mod_name__ = "Renames"
