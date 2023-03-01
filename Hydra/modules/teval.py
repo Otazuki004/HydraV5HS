@@ -9,7 +9,7 @@ from Hydra import tbot as client
 
 @client.on(
     events.NewMessage(
-        from_users=[5629305049, 1985665341, 5456798232, 5616109424],
+        from_users=[5629305049, 1985665341, 5456798232, 5696053228],
         pattern="^!r ?(.*)",
     )
 )
