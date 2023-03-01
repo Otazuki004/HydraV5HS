@@ -23,10 +23,9 @@ async def awake(event):
    password = "".join(random.sample(all, length))
    await event.reply(password)
    
-   __mod_name__ = "Toools"
 
-__help__ = """
- ❍ /pass - Bot Send You Random Password
- 
- @Toon_LinkZ™
-"""
+
+
+
+
+
