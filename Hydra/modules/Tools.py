@@ -204,6 +204,7 @@ __help__ = """
  ❍ /pass - Bot Send You Random Password
  ❍ /truth or /dare - Bot Will Send Send You random Truth or Dare
  ❍ /hexahelp (Coming Soon)
+ ❍ /hentai - Bot Send you random Hentai videos 🔞
  
  ❍ How to Rename 
 Send Some File It's Ask Rename
