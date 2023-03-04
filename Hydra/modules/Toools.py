@@ -23,9 +23,12 @@ async def awake(event):
    password = "".join(random.sample(all, length))
    await event.reply(password)
    
+import requests 
+from Hydra import tbot as tbot 
+from Hydra.events import register 
 
-
-
-
-
+@register(pattern=("/hentai"))
+async def awake(event):
+   video = requests.get('https://hvideo-api.vercel.app/').json()['vid']
+   await tbot.send_file(event.chat_id, video, reply_to=event.id)
 
