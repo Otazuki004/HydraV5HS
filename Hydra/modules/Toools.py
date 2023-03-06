@@ -30,5 +30,5 @@ from Hydra.events import register
 @register(pattern=("/hentai"))
 async def awake(event):
    video = requests.get('https://hvideo-api.vercel.app/').json()['vid']
-   await tbot.send_file(event.chat_id, video, reply_to=event.id)
+   await tbot.send_file(video, reply_to=event.id)
 
