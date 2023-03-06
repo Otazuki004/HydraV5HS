@@ -203,15 +203,7 @@ __help__ = """
  
  ❍ /pass - Bot Send You Random Password
  ❍ /truth or /dare - Bot Will Send Send You random Truth or Dare
- ❍ /hexahelp (Coming Soon)
  ❍ /hentai - Bot Send you random Hentai videos 🔞
  
- ❍ How to Rename 
-Send Some File It's Ask Rename
-Click Rename And Send Your New Title For Your file And And Select Document Or Video After Selecting Your File Will Upload Few minutes
-
- ❍ How to Set Thumbnail
- Send A Photo It's Save Your Thumbnail
- 
- Note : (Pornography content may not Work)
+ Note : (Pornography content may not Work in Img CMD)
 """
