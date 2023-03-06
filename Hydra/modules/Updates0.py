@@ -7,8 +7,6 @@ PHOTO1 = "https://te.legra.ph/file/c4b3a0fb319744a2e41fd.jpg"
 @register(pattern=("/updates"))
 async def awake(event):
     HYDRA1 = f"""
-    
-    * Hexa Info Coming Soon ✅ *
     * Truth or Dare Feature Added ✅ *
     * Welcome (Spam) Removed ✅ *
     * Welcome Messages Are Changed✅ *
