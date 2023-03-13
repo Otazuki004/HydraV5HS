@@ -90,7 +90,7 @@ PM_START_TEXT = """
 ❍ `{}` *Users, Across* `{}` *Chats.*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 ❍ Last Update : 16:2:23
-❍ Patch Name : Music Edition (Incomplete)
+❍ Patch Name : Music Edition
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 ❍ Next Patch : ??:3:2023
 ❍ Next Patch Name : ?????
