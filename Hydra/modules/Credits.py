@@ -52,7 +52,9 @@ Bot Send You, you requested Song in Within 1 or 2 minutes
 /video - enter a Youtube video query and Send
 Bot Send You, you requested video in Within 1 or 2 minutes
 
+/yt - enter a YouTube video name, Bot Send you asked yt Video Link
 Example:
+        /yt Legends never die
 	/video Technoblade Gameplay
 	/song Dusk till dawn
 	/play Pokemon Song
