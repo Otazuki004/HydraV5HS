@@ -203,7 +203,6 @@ __help__ = """
  
  ❍ /pass - Bot Send You Random Password
  ❍ /truth or /dare - Bot Will Send Send You random Truth or Dare
- ❍ /hentai - Bot Send you random Hentai videos 🔞
  
  Note : (Pornography content may not Work in Img CMD)
 """
