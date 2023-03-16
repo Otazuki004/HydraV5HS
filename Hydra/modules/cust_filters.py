@@ -224,7 +224,7 @@ def stop_filter(update, context):
         chat_id = update.effective_chat.id
         chat_name = "Local filters" if chat.type == "private" else chat.title
     if len(args) < 2:
-        send_message(update.effective_message, "What should i stop?")
+        send_message(update.effective_message, " ")
         return
 
     chat_filters = sql.get_chat_triggers(chat_id)
