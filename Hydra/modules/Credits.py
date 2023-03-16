@@ -53,6 +53,12 @@ Bot Send You, you requested Song in Within 1 or 2 minutes
 Bot Send You, you requested video in Within 1 or 2 minutes
 
 /yt - enter a YouTube video name, Bot Send you asked yt Video Link
+
+/stops or /end - to end The Song
+
+/pause & /resume - To pause or resume the song
+
+/skip - To Skip The Song
 Example:
         /yt Legends never die
 	/video Technoblade Gameplay
