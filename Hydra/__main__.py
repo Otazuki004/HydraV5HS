@@ -7,6 +7,7 @@ import re
 import time
 import traceback
 from sys import argv
+import sys
 
 from pyrogram import __version__ as pyrover
 from pyrogram import idle
