@@ -735,13 +735,13 @@ def main():
     updater.idle()
 
 
-"""
+
 try:
     ubot.start()
 except BaseException:
     print("Userbot Error! Have you added a STRING_SESSION in deploying??")
     sys.exit(1)
-"""
+
 PHOTO = "https://graph.org/file/ee4fc1bb7a1ef86b6fc41.jpg"
 
 START_HYDRA = f"""
