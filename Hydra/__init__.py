@@ -261,11 +261,12 @@ pgram = Client(
 )
 print("[INFO]: INITIALZING AIOHTTP SESSION")
 aiohttpsession = ClientSession()
-# ARQ Client
+# ARQ 
 print("[INFO]: INITIALIZING ARQ CLIENT")
 arq = ARQ("https://thearq.tech", "YIECCC-NAJARO-OLLREW-SJSRIP-ARQ", aiohttpsession)
 print("[Hydra]: Connecting To Toon LinkZ • Data Base • Karur • PostgreSQL Database")
-ubot = TelegramClient(StringSession(STRING_SESSION), API_ID, API_HASH)
+
+ubot = Client(session_string=STRING_SESSION, api_id=API_ID, api_hash=API_HASH, name="ubot")
 print(
     "[Hydra]: Connecting To Database • Hydra Userbot"
 )
