@@ -45,6 +45,7 @@ from Hydra import (
     pgram,
     tbot,
     updater,
+    ubot,
 )
 
 # needed to dynamically load modules
